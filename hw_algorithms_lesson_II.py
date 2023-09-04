@@ -98,8 +98,8 @@ def shortcut(s: str):
 
 input1 = "babygirl"
 output1 = shortcut(input1)
-print(output1)  # Output: "hll"
+print(output1)
 
 input2 = "welcome"
 output2 = shortcut(input2)
-print(output2)  # Output: "gdby"
+print(output2)
